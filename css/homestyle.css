@@ -1,0 +1,89 @@
+h2 {
+    font-family: 'EB Garamond', serif;
+    margin-top: 8%;
+/*    margin-bottom: -17px;*/
+}
+
+h4 {
+    
+     font-family: 'EB Garamond', serif;
+    margin-bottom: 7%;
+}
+
+h5 {
+    color: white;
+}
+
+h6 {
+    font-family: 'EB Garamond', serif;
+    margin-bottom: 8%;
+    font-weight: normal;
+}
+
+h7 {
+     font-family: 'EB Garamond', serif;
+    font-size: 10px;
+}
+
+h8 {
+    font-family: 'EB Garamond', serif;
+}
+
+.one.column{
+    margin-bottom: 3%;
+}
+.twelve.columns1 {
+    margin-bottom: 10%;
+}
+
+.twelve.columns2 {
+    margin-top:10%;
+    margin-bottom: -14%;
+}
+
+.four.columns {
+    margin-bottom: 15%;
+}
+
+.four.columns2 {
+    margin-top: -20%;
+    margin-bottom: -100%;
+
+}
+
+.six.columns {
+    margin-bottom: 3%;
+}
+
+
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color:black;
+}
+
+.socialmedias {
+    text-align: center;
+   
+}
+
+
+
+#title {
+    text-decoration: none;
+}
+
+#copyright {
+margin-top: -9%;
+}
+
+
+
+
+
+
+
+
