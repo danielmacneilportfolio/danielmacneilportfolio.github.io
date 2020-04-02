@@ -128,13 +128,13 @@ margin-top: -9%;
 
 @media only screen and (max-width: 500px) {
   .twelve.columns1 img {
-  width: 90%;
+  width: 100%;
     }
     .twelve.columns1 h7 {
-        width: 90%;
+        width: 100%;
     }
     .twelve.columns1 h2 {
-        width: 90%;
+        width: 100%;
     }
     
 }
