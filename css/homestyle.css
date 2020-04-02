@@ -51,7 +51,7 @@ h8 {
 
 .twelve.columns2 {
     margin-top:10%;
-    margin-bottom: -14%;
+    margin-bottom: -14.1%;
 }
 
 .twelve.columns3 {
@@ -136,9 +136,16 @@ margin-top: -9%;
     .twelve.columns1 h2 {
         width: 100%;
     }
-    
+    .twelve.columns2 {
+    margin-top:10%;
+    margin-bottom: -19.5%;
 }
+    .twelve.columns2 img {
+       margin-bottom: -2%;
+        padding-right: 50%;
+    }
 
+}
 
 
 
